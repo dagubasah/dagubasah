@@ -26,7 +26,7 @@
 <div align="center">
 
 **wetjaw studio** — no cubicle, no clock-in, no rat race.
-just LLMs, RAG pipelines, and things that ship.
+just LLMs and things that ship.
 
 📫 check the repos, not the resume → [github.com/dagubasah](https://github.com/dagubasah)
 
