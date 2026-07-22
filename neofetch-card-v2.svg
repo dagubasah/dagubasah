@@ -27,7 +27,7 @@
   <text x="30" y="62" class="prompt">~ $</text>
   <text x="60" y="62" class="value">neofetch --profile</text>
 
-  <video src="neofetch-animation-small.mp4" autoplay loop muted width="480"></video>
+  <video src="neofetch-animation.gif" autoplay loop muted width="480"></video>
 
 
 
