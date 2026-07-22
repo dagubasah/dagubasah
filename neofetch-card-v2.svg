@@ -27,10 +27,10 @@
   <text x="30" y="62" class="prompt">~ $</text>
   <text x="60" y="62" class="value">neofetch --profile</text>
 
-  <!-- pixel eagle avatar -->
-  <img src="neofetch-animation-small.gif" alt="neofetch animation" />
+  <video src="neofetch-animation-small.mp4" autoplay loop muted width="480"></video>
 
-  <!-- info block -->
+
+
   <text x="270" y="98" class="header">dagubasah // Wetjaw Studio</text>
 
   <text x="270" y="124" class="label">Role</text>
