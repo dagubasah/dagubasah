@@ -28,7 +28,7 @@
   <text x="60" y="62" class="value">neofetch --profile</text>
 
   <!-- pixel eagle avatar -->
-<video src="kecewa_transisi.mp4" autoplay loop muted></video>
+  <img src="neofetch-animation-small.gif" alt="neofetch animation" />
 
   <!-- info block -->
   <text x="270" y="98" class="header">dagubasah // Wetjaw Studio</text>
