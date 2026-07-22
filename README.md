@@ -1,11 +1,17 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=ANTI+RAT-RACE.;THE+LORD+OF+WETJAW+STUDIO.;hidup+JOKO." alt="typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=THE+LORD+OF+WETJAW+STUDIO.;ANTI+RAT-RACE.;hidup+JOKO." alt="typing banner" />
 </div>
 
 <br>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/dagubasah/dagubasah/main/neofetch-card-v2.svg" width="780" alt="profile card" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dagubasah/dagubasah/main/id-card.svg" width="780" alt="id card" />
 </div>
 
 <br>
@@ -30,4 +36,10 @@ just LLMs and things that ship.
 
 📫 check the repos, not the resume → [github.com/dagubasah](https://github.com/dagubasah)
 
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dagubasah/dagubasah/main/kecewa_transisi_small.gif" width="360" alt="kecewa transisi" />
 </div>
